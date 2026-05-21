@@ -7,6 +7,11 @@ import seaborn as sns
 class Student:
     def __init__(self, id, name, mid, terminal, assigniment):
         # data definition here
+        self.id=id
+        self.name=name
+        self.mid=mid
+        self.terminal=terminal
+        self.assigniment=assigniment
     def cal_final(self):
         # calculate final result
     def compute_grade(self):

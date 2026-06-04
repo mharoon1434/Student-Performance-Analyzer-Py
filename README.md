@@ -170,7 +170,7 @@ python main.py
 
 <hr>
 
-<h2>🧮 Grade Calculation Formula</h2>
+<h2>Grade Calculation Formula</h2>
 
 <p>
 The final score is calculated using the following formula:
@@ -182,42 +182,6 @@ Final Score = (0.4 × Midterm) + (0.5 × Final Exam) + (0.1 × Assignment)
 
 <hr>
 
-<h2>Grade Criteria</h2>
-
-<table>
-<tr>
-<th>Score Range</th>
-<th>Grade</th>
-</tr>
-
-<tr>
-<td>85 - 100</td>
-<td>A</td>
-</tr>
-
-<tr>
-<td>70 - 84</td>
-<td>B</td>
-</tr>
-
-<tr>
-<td>55 - 69</td>
-<td>C</td>
-</tr>
-
-<tr>
-<td>40 - 54</td>
-<td>D</td>
-</tr>
-
-<tr>
-<td>Below 40</td>
-<td>F</td>
-</tr>
-
-</table>
-
-<hr>
 
 <h2>Statistical Analysis</h2>
 
@@ -237,20 +201,7 @@ The system automatically generates:
 
 <hr>
 
-<h2>Concepts Implemented</h2>
 
-<ul>
-  <li>Python Classes & Objects</li>
-  <li>Functions & Modular Design</li>
-  <li>CSV File Handling</li>
-  <li>Pandas DataFrames</li>
-  <li>Data Cleaning & Processing</li>
-  <li>Matplotlib Graphs</li>
-  <li>Error Handling</li>
-  <li>User Input Validation</li>
-</ul>
-
-<hr>
 
 <h2>Sample Output</h2>
 
@@ -281,15 +232,7 @@ Feel free to fork this repository and submit pull requests.
 
 <hr>
 
-<h2>License</h2>
-
-<p>
-This project is created for educational and learning purposes.
-</p>
-
-<hr>
-
-<h2>👨‍💻 Author</h2>
+<h2>Author</h2>
 
 <p>
 <b>Muhammad Haroon</b><br>

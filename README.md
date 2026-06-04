@@ -4,7 +4,7 @@
   A complete Python-based Student Management and Performance Analysis System using 
   <b>Pandas</b> and <b>Matplotlib</b>.
 </p>
-
+<h2>Technologies Used</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-green?style=for-the-badge">
@@ -50,44 +50,8 @@ The project demonstrates the practical implementation of:
 
 <hr>
 
-<h2>Technologies Used</h2>
 
-<table>
-<tr>
-<th>Technology</th>
-<th>Purpose</th>
-</tr>
-
-<tr>
-<td>Python</td>
-<td>Main Programming Language</td>
-</tr>
-
-<tr>
-<td>Pandas</td>
-<td>Data Storage & Analysis</td>
-</tr>
-
-<tr>
-<td>Matplotlib</td>
-<td>Charts & Visualizations</td>
-</tr>
-
-<tr>
-<td>NumPy</td>
-<td>Numerical Operations</td>
-</tr>
-
-<tr>
-<td>CSV</td>
-<td>Persistent Data Storage</td>
-</tr>
-
-</table>
-
-<hr>
-
-<h2>📂 Project Structure</h2>
+<h2>Project Structure</h2>
 
 ```bash
 Student-Performance-Analyzer/
@@ -107,21 +71,21 @@ Student-Performance-Analyzer/
 
 <hr>
 
-<h2>⚙️ Installation</h2>
+<h2>Installation</h2>
 
-<h3>1️⃣ Clone the Repository</h3>
+<h3>Clone the Repository</h3>
 
 ```bash
 git clone https://github.com/mharoon1434/Student-Performance-Analyzer-Py.git
 ```
 
-<h3>2️⃣ Open Project Folder</h3>
+<h3>Open Project Folder</h3>
 
 ```bash
 cd student-performance-analyzer
 ```
 
-<h3>3️⃣ Install Required Libraries</h3>
+<h3>Install Required Libraries</h3>
 
 ```bash
 pip install pandas matplotlib numpy
@@ -129,7 +93,7 @@ pip install pandas matplotlib numpy
 
 <hr>
 
-<h2>▶️ Run the Project</h2>
+<h2>Run the Project</h2>
 
 ```bash
 python main.py
@@ -137,7 +101,7 @@ python main.py
 
 <hr>
 
-<h2>🖥️ Main Menu</h2>
+<h2>Main Menu</h2>
 
 ```text
 ╔══════════════════════════════════════════╗
@@ -242,4 +206,4 @@ Python Developer | AI Enthusiast | Data Visualization Learner
 <hr>
 
 <h2 align="center">⭐ If you like this project, don't forget to star the repository!</h2>
-```
+

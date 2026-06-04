@@ -1,4 +1,3 @@
-````md
 <h1>🎓 Student Performance Analyzer</h1>
 
 <p>
